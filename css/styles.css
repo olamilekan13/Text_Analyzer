@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+}
+.container{
+
+    background-color: rgb(224, 130, 6);
+    padding: 10px;
+    margin: 50px;
+    display: inline-block;
+    border-radius: 50px;
+}
